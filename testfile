@@ -20,4 +20,4 @@ resource "aws_instance" "web" {
     Name = "HelloWorld"
   }
 }
-
+s is test line
