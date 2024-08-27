@@ -21,3 +21,5 @@ resource "aws_instance" "web" {
   }
 }
 s is test line
+
+this is for merging
